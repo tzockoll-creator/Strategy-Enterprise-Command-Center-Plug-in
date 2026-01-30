@@ -1,0 +1,29 @@
+{
+  "name": "enterprise-command-center",
+  "description": "Multi-agent orchestration skill for Claude that coordinates business intelligence analysis across Strategy Cloud and routes actionable insights to Asana, HubSpot, Slack, Jira, Confluence, Canva, and Figma",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tom Zockoll",
+    "url": "https://github.com/tzockoll-creator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tzockoll-creator/Enterprise-Command-Center-Skill"
+  },
+  "keywords": [
+    "enterprise",
+    "strategy",
+    "mcp",
+    "orchestration",
+    "business-intelligence",
+    "multi-agent",
+    "asana",
+    "hubspot",
+    "slack",
+    "jira",
+    "confluence",
+    "canva",
+    "figma"
+  ],
+  "license": "MIT"
+}
